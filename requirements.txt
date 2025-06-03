@@ -1,0 +1,153 @@
+───────────── CORE DATA STACK ─────────────
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+joblib
+sympy
+
+───────────── DATA VISUALIZATION ─────────────
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+pygal
+dash
+
+───────────── MACHINE LEARNING ─────────────
+xgboost
+lightgbm
+catboost
+
+───────────── DEEP LEARNING ─────────────
+tensorflow
+tensorflow-hub
+keras
+torch
+torchvision
+torchaudio
+pytorch-lightning
+
+───────────── NLP & GENAI ─────────────
+nltk
+spacy
+gensim
+transformers
+sentence-transformers
+accelerate
+safetensors
+langchain
+openai
+llama-cpp-python
+huggingface-hub
+textblob
+deep-translator
+keybert
+flashtext
+
+───────────── WEB FRAMEWORKS ─────────────
+flask
+flask-cors
+fastapi
+uvicorn
+django
+django-cors-headers
+gunicorn
+waitress
+flask-restful
+
+───────────── DASHBOARDS & UI ─────────────
+streamlit
+gradio
+panel
+voila
+
+───────────── JUPYTER / IPYTHON ─────────────
+jupyterlab
+notebook
+ipywidgets
+ipykernel
+nbconvert
+nbformat
+voila
+
+───────────── WEB SCRAPING ─────────────
+requests
+aiohttp
+httpx
+urllib3
+beautifulsoup4
+lxml
+html5lib
+selenium
+
+───────────── FILE I/O / FORMATS ─────────────
+openpyxl
+xlrd
+pyarrow
+fastparquet
+pyyaml
+toml
+json5
+python-docx
+pypdf
+PyMuPDF
+python-pptx
+
+───────────── IMAGE / VIDEO / AUDIO ─────────────
+opencv-python
+scikit-image
+imageio
+Pillow
+moviepy
+pydub
+
+───────────── DATABASES ─────────────
+sqlalchemy
+psycopg2-binary
+pymysql
+pymongo
+tinydb
+
+───────────── CLOUD / EXPERIMENT TRACKING ─────────────
+mlflow
+wandb
+kaggle
+boto3
+google-cloud-storage
+gcsfs
+firebase-admin
+
+───────────── UTILITIES & DEV TOOLS ─────────────
+tqdm
+rich
+typer
+pydantic
+python-dotenv
+loguru
+dotenv
+colorama
+tabulate
+
+───────────── LINTING / TESTING / CI ─────────────
+pytest
+coverage
+mypy
+black
+flake8
+isort
+
+───────────── PACKAGING / CLI / BUILD TOOLS ─────────────
+setuptools
+wheel
+twine
+pyinstaller
+virtualenv
+pipreqs
+
+───────────── OPTIONAL MODEL HOSTING ─────────────
+fastapi[all]
+docker
+uvicorn[standard]
